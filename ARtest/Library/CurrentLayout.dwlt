@@ -42,7 +42,7 @@ MonoBehaviour:
     y: 30
     width: 1680
     height: 956
-  m_MinSize: {x: 679, y: 492}
+  m_MinSize: {x: 681, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
   controlID: 49
@@ -144,7 +144,7 @@ MonoBehaviour:
     y: 0
     width: 1680
     height: 1006
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -207,7 +207,7 @@ MonoBehaviour:
     y: 0
     width: 1339
     height: 956
-  m_MinSize: {x: 404, y: 492}
+  m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
   controlID: 50
@@ -231,8 +231,8 @@ MonoBehaviour:
     y: 0
     width: 1339
     height: 579
-  m_MinSize: {x: 404, y: 221}
-  m_MaxSize: {x: 8004, y: 4021}
+  m_MinSize: {x: 406, y: 221}
+  m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
   controlID: 51
 --- !u!114 &11
@@ -261,7 +261,7 @@ MonoBehaviour:
   - {fileID: 18}
   - {fileID: 13}
   m_Selected: 0
-  m_LastSelected: 2
+  m_LastSelected: 1
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -369,7 +369,7 @@ MonoBehaviour:
   m_LastProjectPath: /Users/erictran/Documents/Projects/infoAR/ARtest
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 45}
+    scrollPos: {x: 0, y: 13}
     m_SelectedIDs: 30290000
     m_LastClickedID: 10544
     m_ExpandedIDs: 0000000030290000a8290000722b0000662c00006c2c00000e2d000000ca9a3bffffff7f
@@ -427,7 +427,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300000a4f000060500000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -520,7 +520,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 9efbffff00000000
+    m_ExpandedIDs: 72befbff6ebffbffb2c1fbff4e12fcff4813fcff8c15fcff1a4efcff3a65fcff3266fcff7a68fcffb8b5fcffb0b6fcfff8b8fcffbcc5fcffb4c6fcfffcc8fcffaee9fcff60eafcffa8ecfcff8201fdff3402fdff7c04fdffa009fdff4e0afdff960cfdff182bfdff162cfdff5e2efdffee34fdffec35fdff3438fdfff095fdffea96fdff3299fdffc824feff8225feffca27feff102efeffc62efeff0e31feff0637feffbe37feff063afeffe03ffeff9a40feffe242feffde4cfeff984dfeffe64ffeff8cddfeff7edefeffc6e0feff160cffff060dffff4e0fffff3445ffff2446ffff6c48ffffda7fffffc880ffff1083ffff109ffffffe9fffff46a2ffff9efbffff00000000a237000018510000565300006462000084690000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -571,14 +571,14 @@ MonoBehaviour:
     height: 558
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 0
+  lastFramingTime: 48591.872005939484
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.7215157, y: 5.8541603, z: -1.9766502}
+    m_Target: {x: 82.27169, y: 20.76, z: 4.4730387}
     speed: 2
-    m_Value: {x: -1.7215157, y: 5.8541603, z: -1.9766502}
+    m_Value: {x: 82.27169, y: 20.76, z: 4.4730387}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -602,17 +602,17 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.09757241, y: 0.896667, z: -0.24701113, w: -0.3541943}
+    m_Target: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
     speed: 2
-    m_Value: {x: -0.09757241, y: 0.896667, z: -0.24701113, w: -0.3541943}
+    m_Value: {x: 0.70710677, y: 0, z: 0, w: 0.70710677}
   m_Size:
-    m_Target: 73.12378
+    m_Target: 83.034775
     speed: 2
-    m_Value: 73.12378
+    m_Value: 83.034775
   m_Ortho:
-    m_Target: 0
+    m_Target: 1
     speed: 2
-    m_Value: 0
+    m_Value: 1
   m_ShowGlobalGrid: 1
   m_LastSceneViewRotation: {x: 0, y: 0, z: 0, w: 0}
   m_LastSceneViewOrtho: 0
@@ -677,7 +677,7 @@ MonoBehaviour:
       y: 17
       width: 1004
       height: 541
-    m_Scale: {x: 2, y: 2}
+    m_Scale: {x: 1, y: 1}
     m_Translation: {x: 502, y: 270.5}
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -685,10 +685,10 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -251
-      y: -135.25
-      width: 502
-      height: 270.5
+      x: -502
+      y: -270.5
+      width: 1004
+      height: 541
     m_MinimalGUI: 1
   m_defaultScale: 2
   m_TargetTexture: {fileID: 0}
